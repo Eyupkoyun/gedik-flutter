@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "319227501528",
+    "project_number": "*******************************",
     "project_id": "fyilanoyunu",
     "storage_bucket": "fyilanoyunu.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:319227501528:android:60801c37aef36e085b30ad",
+        "mobilesdk_app_id": "**************************************",
         "android_client_info": {
           "package_name": "com.example.fyilanoyunu"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA4Oi_LQAP9QAcR6B8GaVjvP_3KN8iL5D0"
+          "current_key": "****************************************"
         }
       ],
       "services": {
